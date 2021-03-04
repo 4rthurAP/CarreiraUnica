@@ -27,7 +27,7 @@
         <p>- Transferencia nao pode ser negativa.</p>
         <p>- Atualizar saldo pessoal.</p>
         <p>- Informar destinatário pelo numero da conta.</p>
-        <p>- Verificar veracidade da conta destinatária.</p>
+        <p>- Verificar veracidade da conta dasnatário.</p>
         <p>- Atualizar saldo da conta destinatário.</p>
         <h4><b>Deposito:</b></h4>
         <p>- Informar valor não negativo.</p>
