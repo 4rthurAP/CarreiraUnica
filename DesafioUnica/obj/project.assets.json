@@ -9784,26 +9784,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Samuel\\.nuget\\packages\\": {}
+    "C:\\Users\\Arthur Pereira\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Git\\CarreiraUnica\\DesafioUnica\\DesafioUnica.csproj",
+      "projectUniqueName": "d:\\finance\\Formulario-pajeDEV\\CarreiraUnica\\DesafioUnica\\DesafioUnica.csproj",
       "projectName": "DesafioUnica",
-      "projectPath": "D:\\Git\\CarreiraUnica\\DesafioUnica\\DesafioUnica.csproj",
-      "packagesPath": "C:\\Users\\Samuel\\.nuget\\packages\\",
-      "outputPath": "D:\\Git\\CarreiraUnica\\DesafioUnica\\obj\\",
+      "projectPath": "d:\\finance\\Formulario-pajeDEV\\CarreiraUnica\\DesafioUnica\\DesafioUnica.csproj",
+      "packagesPath": "C:\\Users\\Arthur Pereira\\.nuget\\packages\\",
+      "outputPath": "d:\\finance\\Formulario-pajeDEV\\CarreiraUnica\\DesafioUnica\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Samuel\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Arthur Pereira\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
